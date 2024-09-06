@@ -13,7 +13,7 @@ Sama seperti pengurangan desimal, kita mulai dari angka paling kanan (nilai temp
 ```
   10101
 - 10011
- -------
+ ------
    01000
 ```
 Jadi, 10101<sub>2</sub> - 10011<sub>2</sub> = **1000<sub>2</sub>**
@@ -22,7 +22,7 @@ Jadi, 10101<sub>2</sub> - 10011<sub>2</sub> = **1000<sub>2</sub>**
 ```
   110010
 - 101101
- --------
+ -------
    000101
 ```
 Jadi, 110010<sub>2</sub> - 101101<sub>2</sub> = **101<sub>2</sub>**
@@ -31,7 +31,7 @@ Jadi, 110010<sub>2</sub> - 101101<sub>2</sub> = **101<sub>2</sub>**
 ```
   100110
 - 011001  (Kita tambahkan 0 di depan untuk menyamakan jumlah digit)
- --------
+ -------
    001101
 ```
 Jadi, 100110<sub>2</sub> - 11001<sub>2</sub> = **1101<sub>2</sub>**

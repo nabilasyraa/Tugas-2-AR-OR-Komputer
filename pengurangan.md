@@ -9,7 +9,7 @@ Sama seperti pengurangan desimal, kita mulai dari angka paling kanan (nilai temp
 * 1 - 1 = 0
 * Jika meminjam 1 dari kolom sebelah kiri, maka angka yang dipinjami menjadi 0, dan angka yang dipinjam menjadi 10 (biner).
 
-**1. 10101<sub>2</sub> - 10011<sub>2</sub>**
+**4. 10101<sub>2</sub> - 10011<sub>2</sub>**
 ```
   10101
 - 10011
@@ -18,7 +18,7 @@ Sama seperti pengurangan desimal, kita mulai dari angka paling kanan (nilai temp
 ```
 Jadi, 10101<sub>2</sub> - 10011<sub>2</sub> = **1000<sub>2</sub>**
 
-**2. 110010<sub>2</sub> - 101101<sub>2</sub>**
+**5. 110010<sub>2</sub> - 101101<sub>2</sub>**
 ```
   110010
 - 101101
@@ -27,7 +27,7 @@ Jadi, 10101<sub>2</sub> - 10011<sub>2</sub> = **1000<sub>2</sub>**
 ```
 Jadi, 110010<sub>2</sub> - 101101<sub>2</sub> = **101<sub>2</sub>**
 
-**3. 100110<sub>2</sub> - 11001<sub>2</sub>**
+**6. 100110<sub>2</sub> - 11001<sub>2</sub>**
 ```
   100110
 - 011001  (Kita tambahkan 0 di depan untuk menyamakan jumlah digit)

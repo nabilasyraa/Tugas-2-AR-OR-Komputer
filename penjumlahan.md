@@ -13,7 +13,7 @@ Sama seperti penjumlahan desimal, kita mulai dari angka paling kanan (nilai temp
 ```
   1101
 + 1011
- ------
+ -----
  11000
 ```
 jadi, 1101<sub>2</sub> + 1011<sub>2</sub> = **11000<sub>2</sub>**
@@ -22,7 +22,7 @@ jadi, 1101<sub>2</sub> + 1011<sub>2</sub> = **11000<sub>2</sub>**
 ```
   11101
 + 11011
- -------
+ ------
  111000
 ```
 Jadi, 11101<sub>2</sub> + 11011<sub>2</sub> = **111000<sub>2</sub>**
@@ -31,7 +31,7 @@ Jadi, 11101<sub>2</sub> + 11011<sub>2</sub> = **111000<sub>2</sub>**
 ```
   110110101
 + 101011010
- -----------
+ ----------
  1100010011
 ```
 Jadi, 110110101<sub>2</sub> + 101011010<sub>2</sub> = **1100010011<sub>2</sub>**

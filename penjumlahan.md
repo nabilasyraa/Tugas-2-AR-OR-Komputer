@@ -9,16 +9,16 @@ Sama seperti penjumlahan desimal, kita mulai dari angka paling kanan (nilai temp
 * 1 + 0 = 1
 * 1 + 1 = 10 (1 ditulis, 1 disimpan sebagai carry)
 
-**1. 11012 + 10112**
+**1. 1101<sub>2</sub> + 1011<sub>2</sub>**
 ```
-  1101
-+ 1011
+  1101<sub>2</sub>
++ 1011<sub>2</sub>
  ------
- 11000
+ 11000<sub>2</sub>
 ```
-jadi, 11012 + 10112 = 110002
+jadi, 1101<sub>2</sub> + 1011<sub>2</sub> = 11000<sub>2</sub>
 
-**2. 111012 + 110112**
+**2. 11101 + 110112**
 ```
   11101
 + 11011
